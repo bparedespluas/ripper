@@ -13,7 +13,7 @@
 - [Installation](#installation)  
 - [Usage Guide](#usage-guide)  
 - [License](#license)
-- [Practial Implementation](Practical_Implimentation.mp4)
+- [Practial Implementation](Practical Implimentation.mp4)
 ---
 
 ## Introduction  
