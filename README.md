@@ -1,5 +1,3 @@
-
-
 # John the Ripper  
 **John the Ripper** is one of the most popular tools in Kali Linux for performing brute force attacks. This repository provides the best and easiest way to get started with this powerful tool.  
 
