@@ -16,7 +16,7 @@
 ---
 ## 🎥 Practical Implementation
 
-[Watch Video](https://github.com/SumitKumarGarsa/Jhon-the-Ripper/blob/main/Practical%20Implimentation.mp4)
+[Watch Video](https://drive.google.com/file/d/1Pb2JTsevNcttLLYfvUA_J9GiTUSUCkHn/view?usp=sharing)
 
 ## Introduction  
 John the Ripper is an open-source password-cracking tool designed to perform dictionary attacks and password hash testing. It's widely used in cybersecurity for penetration testing and security assessments.  
